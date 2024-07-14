@@ -1,0 +1,57 @@
+{
+    "kotlin": {
+      "notes": [
+        "Kotlin is a statically typed programming language for modern multiplatform applications.",
+        "It is fully interoperable with Java and offers more concise syntax."
+      ],
+      "questions": [
+        {
+          "question": "What is Kotlin?",
+          "answers": [
+            "A programming language for JVM and Android.",
+            "A framework for web development.",
+            "A database management tool.",
+            "A cloud service platform."
+          ],
+          "correctAnswer": "A programming language for JVM and Android."
+        }
+      ]
+    },
+    "swift": {
+      "notes": [
+        "Swift is a powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS.",
+        "Writing Swift code is interactive and fun, and the syntax is concise yet expressive."
+      ],
+      "questions": [
+        {
+          "question": "What is Swift?",
+          "answers": [
+            "A programming language for iOS and macOS.",
+            "A type of bird.",
+            "A fast food chain.",
+            "A sports car brand."
+          ],
+          "correctAnswer": "A programming language for iOS and macOS."
+        }
+      ]
+    },
+    "questions": {
+      "notes": [
+        "This section contains various programming questions for practice."
+      ],
+      "questions": [
+        {
+          "question": "What is the purpose of software engineering?",
+          "answers": [
+            "To develop reliable and efficient software solutions.",
+            "To manage computer hardware resources.",
+            "To design user interfaces.",
+            "To provide IT support."
+          ],
+          "correctAnswer": "To develop reliable and efficient software solutions."
+        }
+      ]
+    },
+    "studentResponses": []
+  }
+  
